@@ -30,6 +30,7 @@ This repository contains a PyTorch implementation of convolutional neural networ
 - `pip install torch torchvision matplotlib tqdm torchmetrics mlxtend
 `
 3. **Run the File**
+- `pytorch_computer_vision.ipynb`
 
 ## Results
 -   **Training Accuracy**: Achieved ***99.09%*** accuracy on MNIST and ***89.94%*** accuracy on FashionMNIST training data.
